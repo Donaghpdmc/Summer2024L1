@@ -2,7 +2,7 @@
 #include <cstdio>
 /*
 a few words on what we learn on the lab
-/*
+*/
 
 InterruptIn bluebtn(BUTTON1);
 volatile int int_trig = 0;
