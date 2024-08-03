@@ -1,7 +1,9 @@
 #include "mbed.h"
 #include <cstdio>
 /*
-a few words on what we learn on the lab
+Lab 1; part of this lab we learned how to commit code, set a flag using an interupt function, 
+understand printf statements and optimise the code to the simplist form while still deliverying 
+the same functional output.
 */
 
 InterruptIn bluebtn(BUTTON1);
